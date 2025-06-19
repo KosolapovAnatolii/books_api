@@ -1,0 +1,32 @@
+[
+  {
+    "id": "", // apple-iphone-11-128gb-black
+    "namespaceId": "", // apple-iphone-11
+    "name": "",
+    "priceRegular": 0,
+    "priceDiscount": 0,
+    "color": "",
+    "images": [
+      "img/phones/apple-iphone-11/black/00.webp",
+      ""
+    ],
+    "langAvailable": ["", ""],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "pageNumbers": 0,
+    "publicationYear": 1984, // ??
+    "publication": "",
+    "format": "",
+    "illustrations": false,
+    "category": ["", "", ""],
+    "description": {
+      "title": "",
+      "text": [
+        "",
+        "",
+        ""
+      ]
+    }
+  }
+]
