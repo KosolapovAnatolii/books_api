@@ -1,62 +1,1017 @@
 [
   {
-    "id": "", // apple-iphone-11-128gb-black
-    "namespaceId": "", // apple-iphone-11
-    "name": "",
-    "priceRegular": 0,
-    "priceDiscount": 0,
-    "color": "",
+    "id": "de4cdd13-4819-4b76-8ac6-d8dbc8d182ff",
+    "namespaceId": "dont-make-me-think-revisited",
+    "name": "Don't Make Me Think, Revisited",
+    "slug": "dont-make-me-think-revisited-en-paperback",
+    "priceRegular": 28.79,
+    "priceDiscount": null,
     "images": [
       "img/phones/apple-iphone-11/black/00.webp",
+      "",
+      "",
       ""
     ],
-    "langAvailable": ["", ""],
-    "lang": "AU",
-    "author": "",
-    "coverType": "",
-    "pageNumbers": 0,
-    "publicationYear": 1984, // ??
-    "publication": "",
-    "format": "",
-    "illustrations": false,
-    "category": ["", "", ""],
-    "description": {
-      "title": "",
-      "text": [
-        "",
-        "",
-        ""
-      ]
-    }
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Steve Krug",
+    "coverType": "paperback",
+    "numberOfPages": 216,
+    "publicationYear": 2013,
+    "publication": "New Riders",
+    "format": "70x90 mm",
+    "illustrations": true,
+    "category": [
+      "Graphic Design",
+      "Data and Information Visualization",
+      "Internet Search",
+      "Web Browsers",
+      "Mobile App Development and Programming"
+    ],
+    "description": [
+      "Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design. Witty, commonsensical, and eminently practical, it’s one of the best-loved and most recommended books on the subject.",
+      "Now Steve returns with fresh perspective to reexamine the principles that made Don’t Make Me Think a classic–with updated examples and a new chapter on mobile usability. And it’s still short, profusely illustrated…and best of all–fun to read.",
+      "If you’ve read it before, you’ll rediscover what made Don’t Make Me Think so essential to Web designers and developers around the world. If you’ve never read it, you’ll see why so many people have said it should be required reading for anyone working on Web sites."
+    ]
   },
   {
-    "id": "", // apple-iphone-11-128gb-black
-    "namespaceId": "", // apple-iphone-11
-    "name": "",
-    "priceRegular": 0,
-    "priceDiscount": 0,
-    "color": "",
+    "id": "4c0b9dd9-fa2e-4f04-887e-cb8c9e18a290",
+    "namespaceId": "dont-make-me-think-revisited",
+    "name": "Не змушуйте мене думати",
+    "slug": "dont-make-me-think-revisited-uk-paperback",
+    "priceRegular": 11.51,
+    "priceDiscount": null,
     "images": [
-      "img/phones/apple-iphone-11/black/00.webp",
+      "",
+      "",
+      "",
       ""
     ],
-    "langAvailable": ["", ""],
-    "lang": "ENG",
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Steve Krug",
+    "coverType": "paperback",
+    "numberOfPages": 216,
+    "publicationYear": 2024,
+    "publication": "ArtHuss",
+    "format": "70x90 mm",
+    "illustrations": true,
+    "category": [
+      "Graphic Design",
+      "Data and Information Visualization",
+      "Internet Search",
+      "Web Browsers",
+      "Mobile App Development and Programming"
+    ],
+    "description": [
+      "У сучасному світі, де значну частину життя ми проводимо онлайн, зручність користування сайтами та застосунками є важливою їхньою характеристикою. Саме тому дизайнерам важливо розуміти головні принципи використовності (юзабіліті) та вміти застосовувати їх на практиці.",
+      "«Навіть попри те, що царина вебдизайну постійно розвивається, основні принципи залишаються такими ж, тому що використовність — це про людей, про те, як вони розуміють якусь річ і як послуговуються нею, а не про технології. І якщо технології зчаста змінюються швидко, то людство — повільно», — переконаний автор цієї книжки. У цьому виданні ви знайдете поради досвідченого експерта про те, як створювати першокласні сайти, а також про візуальне оформлення всього, із чим нам доводиться взаємодіяти. Ця книжка дотепна, розсудлива і надзвичайно практична та є однією з найулюбленіших і найпопулярніших на цю тему."
+    ]
+  },
+  {
+    "id": "01df779d-fcca-40be-8ac8-6e2ef15bc0df",
+    "namespaceId": "grokking-lgorithms",
+    "name": "Grokking Algorithms",
+    "slug": "grokking-lgorithms-en-paperback",
+    "priceRegular": 79.19,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Aditya Bhargava",
+    "coverType": "paperback",
+    "numberOfPages": 256,
+    "publicationYear": 2016,
+    "publication": "Manning",
+    "format": "210x140 mm",
+    "illustrations": false,
+    "category": [
+      "Algorithms",
+      "Bestsellers of Ukrainian publishers 2023",
+    ],
+    "description": [
+      "Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns such as data compression and artificial intelligence. Each carefully presented example includes helpful diagrams and fully annotated code samples in Python.",
+      "Learning about algorithms doesn't have to be boring! Get a sneak peek at the fun, illustrated, and friendly examples you'll find in Grokking Algorithms on Manning Publications' YouTube channel.",
+      "Continue your journey into the world of algorithms with Algorithms in Motion, a practical, hands-on video course available exclusively at Manning.com (www.manning.com/livevideo/algorithms-​in-motion)."
+    ]
+  },
+  {
+    "id": "a12e2b65-5bfb-4dc9-acd4-07e7074ed8e2",
+    "namespaceId": "grokking-lgorithms",
+    "name": "Грокаємо алгоритми. Ілюстрований посібник для програмістів і допитливих",
+    "slug": "grokking-lgorithms-uk-paperback",
+    "priceRegular": 13.64,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Aditya Bhargava",
+    "coverType": "paperback",
+    "numberOfPages": 226,
+    "publicationYear": 2023,
+    "publication": "ArtHuss",
+    "format": "200x120 mm",
+    "illustrations": true,
+    "category": [
+      "Algorithms",
+      "Bestsellers of Ukrainian publishers 2023",
+    ],
+    "description": [
+      "Цю книжку написано так, щоб її було легко сприймати. Як тільки згадується новий концепт — я відразу пояснюю його або попереджаю, коли дам пояснення. Основні поняття підкріплено вправами, щоб читач завжди міг перевірити себе й упевнитися, що не втратив нитку оповіді.",
+      "Я наводжу багато прикладів. Моя ціль — спростити візуалізацію концептів, а не заплутати нагромадженням незрозумілих символів. Так, я візуал, і ця книжка просто переповнена малюнками. Зміст ретельно продумано. Усі алгоритми цієї книжки — практичні. Я вважаю їх корисними в моїй професії програмного інженера, і вони забезпечують хорошу основу для інших, складніших тем."
+    ]
+  },
+  {
+    "id": "e6360591-a4b1-418a-922f-de193ff7e096",
+    "namespaceId": "graphic-design-the-new-basics",
+    "name": "Graphic Design: The New Basics",
+    "slug": "graphic-design-the-new-basics-en-hardcover",
+    "priceRegular": 42.18,
+    "priceDiscount": 33,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Jennifer Cole Phillips ",
+    "coverType": "hardcover",
+    "numberOfPages": 264,
+    "publicationYear": 2015,
+    "publication": "Princeton Architectural Press",
+    "format": "215x240 mm",
+    "illustrations": true,
+    "category": [
+      "Design & Decor",
+      "Graphic Design",
+      "Data & Information Visualization",
+      "Readers' Choice"
+    ],
+    "description": [
+      "Ellen Lupton and Jennifer Cole Phillips's celebrated introduction to graphic design, available in a revised and updated edition.Graphic Design: The New Basics explains the key concepts of visual language that inform any work of design. A foundational graphic design book for students, Lupton and Phillips explore the formal elements of design through visual demonstrations and concise commentary. From logos to letterhead to complex website design, this is a graphic design book for everyone, no matter your design project or focus.",
+      "Sixteen new pages of student and professional work covering such topics as working with grids and designing with color make this a course adoption favorite in any graphic design program and graphic design school. Graphic Design: The New Basics is an invaluable introduction to the field of graphic design from two accomplished designers and design educators."
+    ]
+  },
+  {
+    "id": "e4718481-c368-46a6-992e-a3b27fdf8d2d",
+    "namespaceId": "graphic-design-the-new-basics",
+    "name": "Графічний дизайн. Нові основи",
+    "slug": "graphic-design-the-new-basics-uk-paperback",
+    "priceRegular": 12.94,
+    "priceDiscount": 11.63,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Jennifer Cole Phillips ",
+    "coverType": "paperback",
+    "numberOfPages": 284,
+    "publicationYear": 2020,
+    "publication": "ArtHuss",
+    "format": "200x220 mm",
+    "illustrations": true,
+    "category": [
+      "Design & Decor",
+      "Graphic Design",
+      "Data & Information Visualization",
+      "Readers' Choice"
+    ],
+    "description": [
+      "У книзі «Графічний дизайн: Нові основи» авторка бестселлерів Еллен Лаптон і викладачка дизайну Дженніфер Коул Філліпс пояснюють ключові концепції візуальної мови, необхідні для будь-якої дизайнерської роботи, від розробки лого чи фірмового бланку — і до складного вебсайту. За допомогою візуальних прикладів із паралельними коментарями вони представляють формальні базові елементи двовимірного дизайну, такі як точка, лінія, площина, масштаб, ієрархія, шари й прозорість. У новому, переглянутому виданні додано новий розділ — про формстормінг і принципи гештальту, а також численні нові приклади робіт від студентів і професіоналів, що ілюструють такі теми, як робота із сіткою та кольорами.",
+      "«Ця книжка — посібник зі створення візуальних форм, із нього дизайнери дізнаються, як вибудовувати розмаїття і складність на основі простих зв’язків. Тут ми прагнули подолати прірву між програмним забезпеченням — і візуальним мисленням. Говорячи про форму, ми згадуємо новаторські роботи дизайнерів доби модернізму — від Джозефа Алберса й Ласло Могой-Надьї з Баухауза до Арміна Гофмана й таких видатних учителів, як Малколм Ґрір. Ми взялися до роботи над цим посібником, коли завважили, що нашим студентам буває непросто сформулювати абстрактну концепцію. Вони чудово давали собі раду з вокабуляром поп-культури й інтерпретували її елементи, однак набагато менш комфортно почувалися, коли їм доводилося працювати з масштабом, ритмом, кольором, ієрархією, сітками та зв’язками в діаграмах.",
+      "Тож ця книжка — насамперед для студентів і дизайнерів-початківців, її й проілюстровано переважно роботами наших студентів бакалаврських і магістерських програм Maryland Institute College of Art, MICA.",
+      "Роботи, які ми показуємо на цих сторінках, дуже різноманітні, і це розмаїття відображає природну відмінність у вмілості й здатності до чуттєвого сприйняття» — Еллен Лаптон, Дженніфер Коул Філліпс"
+    ]
+  },
+  {
+    "id": "fcabca92-5577-4408-9f88-e1bde78214d3",
+    "namespaceId": "clean-architecture",
+    "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+    "slug": "clean-architecture-en-paperback",
+    "priceRegular": 22.99,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Robert Martin",
+    "coverType": "paperback",
+    "numberOfPages": 432,
+    "publicationYear": 2017,
+    "publication": "Pearson",
+    "format": "175x228 mm",
+    "illustrations": false,
+    "category": [
+      "Design. Architecture",
+      "Readers' Choice",
+      "Cryptocurrencies, AI and Technology in Business",
+    ],
+    "description": [
+      "By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them.",
+      "Martin’s Clean Architecture doesn’t merely present options. Drawing on over a half-century of experience in software environments of every imaginable type, Martin tells you what choices to make and why they are critical to your success. As you’ve come to expect from Uncle Bob, this book is packed with direct, no-nonsense solutions for the real challenges you’ll face–the ones that will make or break your projects.",
+      "Clean Architecture is essential reading for every current or aspiring software architect, systems analyst, system designer, and software manager–and for every programmer who must execute someone else’s designs.",
+      "Register your book for convenient access to downloads, updates, and/or corrections as they become available. See inside book for details."
+    ]
+  },
+  {
+    "id": "6935f2a3-edf8-4158-b14b-69c9f793eb57",
+    "namespaceId": "clean-architecture",
+    "name": "Чиста архітектура",
+    "slug": "clean-architecture-uk-hardcover",
+    "priceRegular": 20.38,
+    "priceDiscount": 19.34,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Robert Martin",
+    "coverType": "hardcover",
+    "numberOfPages": 382,
+    "publicationYear": 2019,
+    "publication": "Фабула",
+    "format": "175x228 mm",
+    "illustrations": false,
+    "category": [
+      "Design. Architecture",
+      "Readers' Choice",
+      "Cryptocurrencies, AI and Technology in Business",
+    ],
+    "description": [
+      "Користуючись універсальними правилами архітектури програмного забезпечення, можна значно підвищити продуктивність праці розробників протягом усього життєвого циклу будь-якої програмної системи. Легендарний майстер програмного забезпечення Роберт К. Мартін («Дядечко Боб») розкриває ці правила у своїй книжці «Чиста архітектура» і допомагає їх застосувати."
+    ]
+  },
+  {
+    "id": "048ae828-581e-402f-8f07-795d4dcaadac",
+    "namespaceId": "clean-code",
+    "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "slug": "clean-code-en-paperback",
+    "priceRegular": 79,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Rober K. Martin",
+    "coverType": "paperback",
+    "numberOfPages": 384,
+    "publicationYear": 2008,
+    "publication": "Longman (Pearson Education)",
+    "format": "220x200 mm",
+    "illustrations": false,
+    "category": [
+      "Software Development",
+      "Programming Practice"
+    ],
+    "description": [
+      "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way. Noted software expert Robert C. Martin, presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin, who has helped bring agile principles from a practitioner's point of view to tens of thousands of programmers, has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code 'on the fly' into a book that will instill within you the values of software craftsman, and make you a better programmer--but only if you work at it. What kind of work will you be doing? You'll be reading code--lots of code. And you will be challenged to think about what's right about that code, and what's wrong with it. More importantly you will be challenged to reassess your professional values and your commitment to your craft. Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code--of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and 'smells' gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code. Readers will come away from this book understanding *How to tell the difference between good and bad code *How to write good code and how to transform bad code into good code *How to create good names, good functions, good objects, and good classes *How to format code for maximum readability *How to implement complete error handling without obscuring code logic *How to unit test and practice test-driven development *What 'smells' and heuristics can help you identify bad codeThis book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code.",
+      "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+      "Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it.",
+      "What kind of work will you be doing? You’ll be reading code—lots of code. And you will be challenged to think about what’s right about that code, and what’s wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft.",
+      "Clean Code is divided into three parts. The first describes the principles, patterns, and practices of writing clean code. The second part consists of several case studies of increasing complexity. Each case study is an exercise in cleaning up code—of transforming a code base that has some problems into one that is sound and efficient. The third part is the payoff: a single chapter containing a list of heuristics and “smells” gathered while creating the case studies. The result is a knowledge base that describes the way we think when we write, read, and clean code.",
+      "This book is a must for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code."
+    ]
+  },
+  {
+    "id": "fdb7f94c-c3b4-4363-b027-96a824b74d1e",
+    "namespaceId": "clean-code",
+    "name": "Чистий код. Створення і рефакторинг за допомогою Agile",
+    "slug": "clean-code-uk-hardcover",
+    "priceRegular": 21,
+    "priceDiscount": 19,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Rober K. Martin",
+    "coverType": "hardcover",
+    "numberOfPages": 380,
+    "publicationYear": 2019,
+    "publication": "Фабула",
+    "format": "220x200 mm",
+    "illustrations": false,
+    "category": [
+      "Software Development",
+      "Programming Practice"
+    ],
+    "description": [
+      "Навіть поганий програмний код може працювати. Однак якщо код не є «чистим», це завжди буде заважати розвитку проекту і компанії-розробника, віднімаючи значні ресурси на його підтримку і «приборкання». Ця книга присвячена хорошому програмуванню. У ній повно реальних прикладів коду. Прочитавши книгу, ви дізнаєтеся багато нового про коди. Більш того, ви навчитеся відрізняти хороший код від поганого. Ви дізнаєтеся, як писати хороший код і як перетворити поганий код у хороший."
+    ]
+  },
+  {
+    "id": "a37c9ade-8a3b-4afe-a7bc-755698230db3",
+    "namespaceId": "lean-ux",
+    "name": "Lean UX: Designing Great Products with Agile Teams",
+    "slug": "lean-ux-en-hardcover",
+    "priceRegular": 19.75,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Jeff Gothelf, Josh Seiden",
+    "coverType": "hardcover",
+    "numberOfPages": 254,
+    "publicationYear": 2021,
+    "publication": "O'Reilly Media",
+    "format": "154x231 mm",
+    "illustrations": true,
+    "category": [
+      "Project Management",
+      "Project Execution and Control",
+      "Business Literature: Leaders' Recommendations"
+    ],
+    "description": [
+      "Lean UX is synonymous with modern product design and development. By combining human-centric design, agile ways of working, and a strong business sense, designers, product managers, developers, and scrum masters around the world are making Lean UX the leading approach for digital product teams today.",
+      "In the third edition of this award-winning book, authors Jeff Gothelf and Josh Seiden help you focus on the product experience rather than deliverables. You'll learn tactics for integrating user experience design, product discovery, agile methods, and product management. And you'll discover how to drive your design in short, iterative cycles to assess what works best for businesses and users. Lean UX guides you through this change--for the better."
+    ]
+  },
+  {
+    "id": "901eebed-ecb6-42b3-9f86-f03084017376",
+    "namespaceId": "lean-ux",
+    "name": "Lean UX: Створення класних продуктів із командами Agile",
+    "slug": "lean-ux-uk-paperback",
+    "priceRegular": 13.66,
+    "priceDiscount": 12.97,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Jeff Gothelf, Josh Seiden",
+    "coverType": "paperback",
+    "numberOfPages": 206,
+    "publicationYear": 2024,
+    "publication": "ArtHuss",
+    "format": "165x235 mm",
+    "illustrations": true,
+    "category": [
+      "Project Management",
+      "Project Execution and Control",
+      "Business Literature: Leaders' Recommendations"
+    ],
+    "description": [
+      "«Минуло роки чотири з моменту, коли я вперше почав говорити й писати про нову концепцію, що називається Lean Startup, і менше ніж рік відтоді як я опублікував свою книжку Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Achieve Radically Successful Businesses («Lean Startup: як нинішні підприємці використовують постійні інновації, щоби досягти радикально успішного бізнесу») (Crown Business). За цей час я бачив, як ці ідеї зростали й розповсюджувалися — від індустрії до індустрії, від сектора до сектора, від функції до функції. Щоразу коли ми відкривали незвідану землю, ми покладалися на далекоглядних лідерів, що допоможуть перекласти ключові принципи й розробити нові процеси для їх упровадження.",
+      "Lean UX — важливий крок у цій еволюції. Уперше у нас є зовнішній погляд на те, як принципи Lean Startup застосовуються в контексті дизайну. На цьому шляху книга знайомить нас із важливими новими інструментами й техніками, що дозволяють досягти ідеальної співпраці, швидкої готовності продуктів і — найважливіше — суттєво вищої якості». — Ерік Ріс, із Передмови.",
+      "«Lean UX розбиває бар’єри, що відділяли дизайнерів програмного забезпечення від справжніх потреб бізнесу з одного боку та проблем власне впровадження — з іншого. Lean UX враховує не лише дизайнерів, він запрошує наших партнерів у бізнесі та технології працювати з нами над найкращим рішенням на цьому шляху. Колись у Джефа був великий клієнт зі сфери фармацевтики. Він найняв агентство, у якому працював Джеф, щоби змінити дизайн своєї платформи для онлайн-торгівлі. Метою було збільшити прибуток на 15 відсотків. Джеф був головним дизайнером взаємодії в команді. Члени команди на кілька місяців зачинилися в офісі й вивчали поточну систему, ланцюжок постачання, конкурентів, цільову аудиторію та сценарії контекстуального використання. Вони досліджували персон і збирали стратегічні моделі. Джеф створив нову інформаційну архітектуру для каталогу продукції та придумав абсолютно новий досвід купівель і платежів. Коли ці місяці минули й роботу було завершено, команда зібрала все в презентацію PowerPoint. Презентація була чималенька — як і належало, зважаючи на ціну 600 000 доларів! Команда приїхала до офісу клієнта і провела там повний восьмигодинний робочий день, пояснюючи кожен піксель та кожне слово у презентації. Коли вони завершили, клієнти вітали їх оплесками (їй-бо!). Джеф і його команда видихнули з полегшенням. Клієнту сподобалася їхня робота. І команда Джефа ніколи більше не відкривала цю презентацію. Через півроку після зустрічі з презентацією на сайті клієнта не змінилося нічого. Клієнт також ніколи більше не відкривав цю презентацію. Мораль цієї історії: створення вивірених до пікселя специфікацій може бути шляхом до отримання шестизначних сум за консультування, але не до суттєвого поліпшення реального продукту, критично важливого для реальних користувачів. Дизайнери теж не приходять у цей бізнес заради специфікацій. Ми хочемо створювати послуги й товари, що мають значення, а не писати папери». — Джеф Ґотельф і Джош Сейден, зі Вступу."
+    ]
+  },
+  {
+    "id": "4bc2e11b-cc6f-4abb-87e4-e2df56028fb2",
+    "namespaceId": "herding-cats",
+    "name": "Herding Cats: A Primer for Programmers Who Lead Programmers",
+    "slug": "herding-cats-en-paperback",
+    "priceRegular": 24.95,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "J. Hank Rainwater",
+    "coverType": "paperback",
+    "numberOfPages": 276,
+    "publicationYear": 2002,
+    "publication": "Apress",
+    "format": "234x192 mm",
+    "illustrations": false,
+    "category": [
+      "Programming Practice (techniques, methods, programmer's work)",
+      "Cryptocurrencies, AI and technologies in business"
+    ],
+    "description": [
+      "Herding Cats: A Primer for Programmers Who Lead Programmers is a comprehensive guide―think of it as a field manual―to the management challenges of supervising and leading programmers. J. Hank Rainwater introduces new and not-so-new managers to concepts that will encourage them and help them become a strong leaders for their teams. You'll learn about the varieties of programmer personality traits and be able match personnel to projects for maximum productivity. You'll also learn how to manage your strengths and weaknesses as you improve your leadership skills, which will result in dramatic improvements to your teams success.",
+      "In this “how-to” manual that's both practical and thought-provoking, you'll find several chapters devoted to administrative aspects of your job, such as managing meetings, hiring and firing, and principles of organizing your job for success. Rainwater also describes task management software he built that you can use to organize project assignments. (The source code for this software is available for download once you own the book). The chapter on technical leadership, which highlights the importance of architecture, design, and code reviews, also illustrates practical applications of leadership and concrete methods useful to any workplace.",
+      "Rainwater shows why things can go wrong for a leader and how to correct career-derailing problems as they arise. One chapter is devoted to the working relationship that you as a manager have with your boss, and it guides you into the best way to respond to the pressures of software project deadlines. Numerous other topics are discussed that are a necessity for anyone seeking to manage the “peopleware” aspects of software development. Herding Cats: A Primer for Programmers Who Lead Programmers is the definitive guide to the challenges and obstacles facing anyone who manages programmers."
+    ]
+  },
+  {
+    "id": "11e79f5c-575d-4d2a-abc8-79582c7dd1a1",
+    "namespaceId": "herding-cats",
+    "name": "Herding Cats: A Primer for Programmers Who Lead Programmers",
+    "slug": "herding-cats-uk-hardcover",
+    "priceRegular": 17.98,
+    "priceDiscount": 17.04,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "J. Hank Rainwater",
+    "coverType": "hardcover",
+    "numberOfPages": 320,
+    "publicationYear": 2020,
+    "publication": "Фабула",
+    "format": "165х235 mm",
+    "illustrations": true,
+    "category": [
+      "Programming Practice (techniques, methods, programmer's work)",
+      "Cryptocurrencies, AI and technologies in business"
+    ],
+    "description": [
+      "Захисники тварин, не переймайтеся! Ця книжка не про жорстоке поводження з тваринами — жоден пухнастик не постраждає. Вона про тих, хто, як і коти, позбавлені стадного інстинкту, — програмістів, і те, як навчитися ними керувати задля досягнення найамбітніших цілей в IT-індрустрії.",
+      "Книжка буде корисною для менеджерів різних ланок і самих програмістів."
+    ]
+  },
+  {
+    "id": "7a06d468-7c1c-4218-8a7b-3193ab3f1407",
+    "namespaceId": "introduction-to-game-systems-design",
+    "name": "Introduction to Game Systems Design (Game Design)",
+    "slug": "introduction-to-game-systems-design-en-paperback",
+    "priceRegular": 19.99,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Dax Gazaway",
+    "coverType": "paperback",
+    "numberOfPages": 384,
+    "publicationYear": 2021,
+    "publication": "Pearson",
+    "format": "174x22 6mm",
+    "illustrations": true,
+    "category": [
+      "Computer games"
+    ],
+    "description": [
+      "As games grow more complex and gamers' expectations soar, the discipline of game systems design becomes ever more important. Game systems designers plan a game's rules and balance, its characters' attributes, most of its data, and how its AI, weapons, and objects work and interact.",
+      "Introduction to Game Systems Design is the first complete beginner's guide to this crucial discipline. Writing for all aspiring game professionals, even those with absolutely no experience, leading game designer and instructor Dax Gazaway presents a step-by-step, hands-on approach to designing game systems with industry-standard tools.",
+      "Whether you're a college freshman entering a game design program, an indie developer using Unreal or Unity, a Dungeon Master, or anyone who wants to really understand modern games, this guide will help you get where you want to go."
+    ]
+  },
+  {
+    "id": "eae25281-7bd4-440a-b3af-2515dbe436df",
+    "namespaceId": "introduction-to-game-systems-design",
+    "name": "Вступ до дизайну ігрових систем",
+    "slug": "introduction-to-game-systems-design-uk-hardcover",
+    "priceRegular": 16.54,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Dax Gazaway",
+    "coverType": "hardcover",
+    "numberOfPages": 368,
+    "publicationYear": 2025,
+    "publication": "Фабула",
+    "format": "170х240х25 mm",
+    "illustrations": true,
+    "category": [
+      "Computer games"
+    ],
+    "description": [
+      "Комп’ютерні ігри стають дедалі складнішими, очікування геймерів зростають, тому дизайн ігрових систем стає дедалі важливішим. Розробники ігрових систем створюють правила та баланс гри, атрибути її персонажів, більшу частину даних, а також принципи функціонування та роботи ШІ, зброї та об’єктів",
+      "«Вступ до дизайну ігрових систем» — перше повне керівництво для початківців вивчення цієї важливої дисципліни, створене провідним геймдизайнером і коучем Даксом Ґазавеєм. Ця книжка адресована всім, хто робить перші кроки у цій професії, у тому числі й тим, хто не має жодного досвіду. Незалежно від того, чи ви є студентом-першокурсником, інді-розробником, який використовує Unreal чи Unity, або просто геймером, який намагається по-справжньому розібратися в сучасних іграх, Дакс допоможе вам дізнатися саме те, що вам необхідно."
+    ]
+  },
+  {
+    "id": "e5f1bfcf-8233-4239-8d1d-6bda0765fc5b",
+    "namespaceId": "head-first-python",
+    "name": "Head First Python: A Brain-Friendly Guide",
+    "slug": "head-first-python-en-paperback",
+    "priceRegular": 22.94,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Paul Barry",
+    "coverType": "paperback",
+    "numberOfPages": 622,
+    "publicationYear": 2016,
+    "publication": "O'Reilly Media",
+    "format": "180x240 mm",
+    "illustrations": true,
+    "category": [
+      "Pyton",
+      "Software Design, Testing & Engineering",
+      "Programming"
+    ],
+    "description": [
+      "Want to learn the Python language without slogging your way through how-to manuals? With Head First Python, you'll quickly grasp Python's fundamentals, working with the built-in data structures and functions. Then you'll move on to building your very own webapp, exploring database management, exception handling, and data wrangling. If you're intrigued by what you can do with context managers, decorators, comprehensions, and generators, it's all here. This second edition is a complete learning experience that will help you become a bonafide Python programmer in no time.",
+      "Why does this book look so different? Based on the latest research in cognitive science and learning theory, Head First Pythonuses a visually rich format to engage your mind, rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multi-sensory learning experience is designed for the way your brain really works."
+    ]
+  },
+  {
+    "id": "9937821c-2efe-4480-8a3f-106ea342be40",
+    "namespaceId": "head-first-python",
+    "name": "Head First Python",
+    "slug": "head-first-python-uk-hardcover",
+    "priceRegular": 25.65,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Paul Barry",
+    "coverType": "hardcover",
+    "numberOfPages": 624,
+    "publicationYear": 2021,
+    "publication": "O'Reilly Media",
+    "format": "205х240 mm",
+    "illustrations": true,
+    "category": [
+      "Pyton",
+      "Software Design, Testing & Engineering",
+      "Programming"
+    ],
+    "description": [
+      "Мова Python сьогодні відома у всьому світі. Вона задіяна в пошукових системах Google, на ній майже цілком написані відеохостинг Youtube і соціальна мережа Reddit, активно використовують її Facebook та Instagram. Агентство національної безпеки США з її допомогою аналізує розвіддані, а NASA розв’язує найскладніші наукові проблеми. Інакше кажучи, Python під силу не тільки обчислювальні задачі, а й тестування, адміністрування і розробка програмних продуктів."
+    ]
+  },
+  {
+    "id": "bd91f686-4d8d-4ca6-879e-ade96a1fdae9",
+    "namespaceId": "rework",
+    "name": "Rework",
+    "slug": "rework-en-hardcover",
+    "priceRegular": 22.34,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Jason Fried ",
+    "coverType": "hardcover",
+    "numberOfPages": 288,
+    "publicationYear": 2010,
+    "publication": "Crown Currency",
+    "format": "145x215 mm",
+    "illustrations": true,
+    "category": [
+      "Company Stories",
+      "Motivation. Self-Improvement",
+      "E-Commerce",
+      "Human Resources. Personnel",
+      "New Business. Startups",
+      "Innovative Management. Creative",
+      "Crisis and Risk Management",
+      "Leadership",
+      "General Management",
+      "Strategic Management",
+      "Personnel Management"
+    ],
+    "description": [
+      "Most business books give you the same old advice: Write a business plan, study the competition, seek investors, yadda yadda. If you're looking for a book like that, put this one back on the shelf.",
+      "Read it and you'll know why plans are actually harmful, why you don't need outside investors, and why you're better off ignoring the competition. The truth is, you need less than you think. You don't need to be a workaholic. You don't need to staff up. You don't need to waste time on paperwork or meetings. You don't even need an office. Those are all just excuses.",
+      "What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you.",
+      "With its straightforward language and easy-is-better approach, Rework is the perfect playbook for anyone who’s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs they hate, victims of 'downsizing' and artists who don’t want to starve anymore will all find valuable guidance in these pages."
+    ]
+  },
+  {
+    "id": "19f8ad90-8b7a-4c93-8c1f-0d226ae9ef3f",
+    "namespaceId": "rework",
+    "name": "Rework. Ця книжка змінить Ваш погляд на бізнес",
+    "slug": "rework-uk-hardcover",
+    "priceRegular": 7.67,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Jason Fried ",
+    "coverType": "hardcover",
+    "numberOfPages": 176,
+    "publicationYear": 2016,
+    "publication": "Crown Currency",
+    "format": "150x220 mm",
+    "illustrations": true,
+    "category": [
+      "Company Stories",
+      "Motivation. Self-Improvement",
+      "E-Commerce",
+      "Human Resources. Personnel",
+      "New Business. Startups",
+      "Innovative Management. Creative",
+      "Crisis and Risk Management",
+      "Leadership",
+      "General Management",
+      "Strategic Management",
+      "Personnel Management"
+    ],
+    "description": [
+      "Ця книжка для підприємців, які відчувають себе природженими створювати, очолювати й перемагати; власників малого бізнесу які шукають виходу за усталені рамки; тих, хто поки лише мріє про власну справу."
+    ]
+  },
+  {
+    "id": "ecb66de6-9792-4780-bd59-97f177fd2bb9",
+    "namespaceId": "no-rules-rules",
+    "name": "No Rules Rules: Netflix and the Culture of Reinvention",
+    "slug": "no-rules-rules-en-hardcover",
+    "priceRegular": 16.99,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Reed Hastings",
+    "coverType": "hardcover",
+    "numberOfPages": 320,
+    "publicationYear": 2020,
+    "publication": "Penguin Press",
+    "format": "160x240 mm",
+    "illustrations": false,
+    "category": [
+      "Success Stories",
+      "Company Stories",
+      "Books about Innovation",
+      "People Module",
+      "Readers' Choice",
+      "Books for Entrepreneurial Thinking",
+      "Books about Brands"
+    ],
+    "description": [
+      "There has never before been a company like Netflix. It has led nothing short of a revolution in the entertainment industries, generating billions of dollars in annual revenue while capturing the imaginations of hundreds of millions of people in over 190 countries. But to reach these great heights, Netflix, which launched in 1998 as an online DVD rental service, has had to reinvent itself over and over again. This type of unprecedented flexibility would have been impossible without the counterintuitive and radical management principles that cofounder Reed Hastings established from the very beginning. Hastings rejected the conventional wisdom under which other companies operate and defied tradition to instead build a culture focused on freedom and responsibility, one that has allowed Netflix to adapt and innovate as the needs of its members and the world have simultaneously transformed.",
+      "Hastings set new standards, valuing people over process, emphasizing innovation over efficiency, and giving employees context, not controls. At Netflix, there are no vacation or expense policies. At Netflix, adequate performance gets a generous severance, and hard work is irrel­evant. At Netflix, you don’t try to please your boss, you give candid feedback instead. At Netflix, employees don’t need approval, and the company pays top of market. When Hastings and his team first devised these unorthodox principles, the implications were unknown and untested. But in just a short period, their methods led to unparalleled speed and boldness, as Netflix quickly became one of the most loved brands in the world.",
+      "Here for the first time, Hastings and Erin Meyer, bestselling author of The Culture Map and one of the world’s most influential business thinkers, dive deep into the controversial ideologies at the heart of the Netflix psyche, which have generated results that are the envy of the business world. Drawing on hundreds of interviews with current and past Netflix employees from around the globe and never-before-told stories of trial and error from Hastings’s own career, No Rules Rules is the fascinating and untold account of the philosophy behind one of the world’s most innovative, imaginative, and successful companies."
+    ]
+  },
+  {
+    "id": "dce364a0-b59b-472a-bf59-68e39d420f54",
+    "namespaceId": "no-rules-rules",
+    "name": "Netflix і культура інновацій",
+    "slug": "no-rules-rules-uk-hardcover",
+    "priceRegular": 7.99,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Reed Hastings",
+    "coverType": "hardcover",
+    "numberOfPages": 352,
+    "publicationYear": 2021,
+    "publication": "Vivat",
+    "format": "150х205 mm",
+    "illustrations": false,
+    "category": [
+      "Success Stories",
+      "Company Stories",
+      "Books about Innovation",
+      "People Module",
+      "Readers' Choice",
+      "Books for Entrepreneurial Thinking",
+      "Books about Brands"
+    ],
+    "description": [
+      "До Netflix щороку хоче долучитися безліч фахівців, а вже сформована команда — лояльна, щаслива та ефективна. У Netflix немає чітких правил, проте кожен виконує завдання максимально якісно. Рід Гастінгс та Ерін Маєр проаналізували історію успіху цієї компанії й визначили, чому бізнесів багато, але інноваційними та прогресивними серед них стають одиниці.",
+      "Секрет Netflix — у людях: уся команда працює злагоджено тільки тоді, коли кожен її учасник почувається комфортно і знає, що він — важливий елемент системи, а не абстрактна робоча одиниця. У цій книжці ви знайдете поради, як створити компанію, у якій хочеться працювати та впроваджувати інновації. Крім того, ви дізнаєтеся про залаштунки роботи в найбільшому стримінговому сервісі, який досягнув неабияких успіхів завдяки унікальній корпоративній культурі."
+    ]
+  },
+
+  // TODO: stopped here
+
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
     "author": "",
     "coverType": "",
-    "pageNumbers": 0,
-    "publicationYear": 1984, // ??
+    "numberOfPages": ,
+    "publicationYear": ,
     "publication": "",
     "format": "",
-    "illustrations": false,
-    "category": ["", "", ""],
-    "description": {
-      "title": "",
-      "text": [
-        "",
-        "",
-        ""
-      ]
-    }
-  }
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "",
+    "namespaceId": "",
+    "name": "",
+    "slug": "",
+    "priceRegular": ,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "",
+    "author": "",
+    "coverType": "",
+    "numberOfPages": ,
+    "publicationYear": ,
+    "publication": "",
+    "format": "",
+    "illustrations": ,
+    "category": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      ""
+    ]
+  },
+
+
+
+
 ]
