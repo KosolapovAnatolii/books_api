@@ -735,15 +735,12 @@
       "Секрет Netflix — у людях: уся команда працює злагоджено тільки тоді, коли кожен її учасник почувається комфортно і знає, що він — важливий елемент системи, а не абстрактна робоча одиниця. У цій книжці ви знайдете поради, як створити компанію, у якій хочеться працювати та впроваджувати інновації. Крім того, ви дізнаєтеся про залаштунки роботи в найбільшому стримінговому сервісі, який досягнув неабияких успіхів завдяки унікальній корпоративній культурі."
     ]
   },
-
-  // TODO: stopped here
-
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "a0d0cf1b-d164-47da-b685-9db7d10732c5",
+    "namespaceId": "warren-buffetts-ground-rules",
+    "name": "Warren Buffett's Ground Rules: Words of Wisdom from the Partnership Letters of the World's Greatest Investor",
+    "slug": "warren-buffetts-rround-rules-en-paperback",
+    "priceRegular": 11.50,
     "priceDiscount": null,
     "images": [
       "",
@@ -752,32 +749,31 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "en",
+    "author": "Jeremy Miller",
+    "coverType": "paperback",
+    "numberOfPages": 352,
+    "publicationYear": 2017,
+    "publication": "Profile Books",
+    "format": "130x200 mm",
+    "illustrations": true,
     "category": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Securities. Investments. Appraisal",
+      "BookChef: bestsellers",
+      "All about business and money"
     ],
     "description": [
-      "",
-      ""
+      "At the age of 26, Warren Buffett founded Buffett Partnership Limited, which lasted from 1956 to 1970. During this time he wrote 33 letters to his small but growing group of partners. These letters chronicle his thoughts, approaches and reflections in the period immediately prior to his Berkshire Hathaway tenure - one that saw an unprecedented record of investing success.",
+      "This early period was astonishing: in 1968 he beat the Dow by more than 50%. Because Buffett wanted to ensure that his partners understood his process, he wrote letters. In them, he sets out what he termed 'ground rules' for investing that remain startlingly relevant today for every type of investor - from beginners to sophisticated pros. Warren Buffett's Ground Rules brings together, for the first time, and with Buffett's blessing, the key investment principles and teachings the letters reveal. Here you will find the basis for Buffett's contrarian diversification strategy, his almost religious celebration of compounding interest and his tactics for bettering market results by at least 10% annually.",
+      "Quoting extensively and directly from Buffett, equity research expert Jeremy Miller introduces us to the timeless advice the letters contain, demonstrating a set of highly effective investment strategies that continue to resonate today."
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "8d9fdaf0-a69c-4061-8a91-316b621750f7",
+    "namespaceId": "warren-buffetts-ground-rules",
+    "name": "Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал",
+    "slug": "warren-buffetts-rround-rules-uk-hardcover",
+    "priceRegular": 10.79,
     "priceDiscount": null,
     "images": [
       "",
@@ -786,32 +782,31 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "uk",
+    "author": "Jeremy Miller",
+    "coverType": "hardcover",
+    "numberOfPages": 320,
+    "publicationYear": 2022,
+    "publication": "BookChef",
+    "format": "162х210 mm",
+    "illustrations": true,
     "category": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Securities. Investments. Appraisal",
+      "BookChef: bestsellers",
+      "All about business and money"
     ],
     "description": [
-      "",
-      ""
+      "Воррен Баффет — відомий та успішний інвестор, один із найбагатших людей у світі, відрізняється індивідуальним стилем у веденні справ, уже давно його вважають гуру інвестування, позаочі називають «оракулом» і «мудрецем». В одній зі своїх перших компаній Buffett Partnership Limited, заснованій 1956 року, Баффет увів правило писати листи акціонерам, інформуючи їх про стан бізнесу й викладаючи принципи, якими керувався, ухвалюючи операційні рішення. Ці роки були найуспішнішими для компанії, показники прибутковості сягали найвищих індексів.",
+      "За матеріалом цих листів і написав книгу Джеремі Міллер, інвестиційний аналітик, який вивчав причини успіху методів В. Баффета. Він систематизував листи Баффета, здійснив ґрунтовний аналіз принципів і філософії його роботи, виклавши результат своєї праці в цій книзі. І навіть попри зміну часів ці підходи лишаються актуальними й досі себе виправдовують. Принципи В. Баффета, як і його персона, викликають зацікавлення широкого кола інвесторів — і початківців, і досвідчених фахівців, а його прагматичні рішення, описані в книзі, є прикладом для наслідування.",
+      "Нарешті цю книгу видано українською мовою, і вона неодмінно стане в пригоді українським інвесторам, а значить, принесе користь для економіки України."
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "a0400c92-343e-4e61-bf1a-382236c67ed6",
+    "namespaceId": "emotional-intelligence",
+    "name": "Emotional Intelligence. Why it Can Matter More Than IQ",
+    "slug": "emotional-intelligence-en-paperback",
+    "priceRegular": 11.96,
     "priceDiscount": null,
     "images": [
       "",
@@ -820,32 +815,34 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "en",
+    "author": "Daniel Goleman",
+    "coverType": "paperback",
+    "numberOfPages": 368,
+    "publicationYear": 1996,
+    "publication": "Bloomsbury",
+    "format": "111х178 mm",
+    "illustrations": false,
     "category": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Personality Psychology",
+      "Psychology. General Works",
+      "Mental Processes",
+      "Personal Transformations",
+      "Books for the Intellect"
     ],
     "description": [
-      "",
-      ""
+      "The groundbreaking bestseller that redefines intelligence and success",
+      "Does IQ define our destiny? Daniel Goleman argues that our view of human intelligence is far too narrow, and that our emotions play major role in thought, decision making and individual success. Self-awareness, impulse control, persistence, motivation, empathy and social deftness are all qualities that mark people who excel: whose relationships flourish, who are stars in the workplace. With new insights into the brain architecture underlying emotion and rationality, Goleman shows precisely how emotional intelligence can be nurtured and strengthened in all of us.",
+      "An impressive argument that excellence is more than IQ",
+      "The huge international bestseller which has revolutionised the definition of intelligence"
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "48b9327f-903f-4a95-bc9e-50f7777ba098",
+    "namespaceId": "emotional-intelligence",
+    "name": "Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі",
+    "slug": "emotional-intelligence-uk-hardcover",
+    "priceRegular": 10.76,
     "priceDiscount": null,
     "images": [
       "",
@@ -854,32 +851,33 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "uk",
+    "author": "Daniel Goleman",
+    "coverType": "hardcover",
+    "numberOfPages": 528,
+    "publicationYear": 2021,
+    "publication": "Vivat",
+    "format": "150х205 mm",
+    "illustrations": false,
     "category": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Personality Psychology",
+      "Psychology. General Works",
+      "Mental Processes",
+      "Personal Transformations",
+      "Books for the Intellect"
     ],
     "description": [
-      "",
-      ""
+      "Бестселер Деніела Ґоулмана «Емоційний інтелект» здійснив революцію в психології. У другій книжці про емоційний інтелект автор аналізує причини й запоруки успіху в бізнесі як окремого працівника, так і всієї організації, виокремлюючи навички, що вирізняють лідерів у будь-якій галузі.",
+      "На конкретних прикладах показано, як емоції, самоконтроль, комунікативні навички й здатність працювати в команді — тобто емоційний інтелект — впливають на успіх у житті та бізнесі. На думку автора, це важливіше за IQ, науковий ступінь та життєвий досвід. І що вища посада людини, то вагоміші ці навички.",
+      "Ґоулман наголошує на тому, що всі ми маємо потенціал для розвитку емоційного інтелекту на будь-якому етапі нашої кар’єри, а також дає нам рекомендації щодо підвищення власної ефективності."
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "1337ff54-1f2a-45e0-9efb-92e3925f8d45",
+    "namespaceId": "the-double-x-economy",
+    "name": "The Double X Economy. The Epic Potential of Empowering Women",
+    "slug": "the-double-x-economy-en-paperback",
+    "priceRegular": 18.70,
     "priceDiscount": null,
     "images": [
       "",
@@ -888,32 +886,64 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "en",
+    "author": "Linda Scott",
+    "coverType": "paperback",
+    "numberOfPages": 384,
+    "publicationYear": 2020,
+    "publication": "Faber and Faber",
+    "format": "153х234 mm",
+    "illustrations": false,
     "category": [
-      "",
+      "Women in Business",
+      "English",
+      "Gender Studies. Feminism"
+    ],
+    "description": [
+      "An urgent analysis of global gender inequality and a passionately argued case for change by a pioneer in the movement for women's economic empowerment.",
+      "Women's economic development expert Linda Scott coined the paradigm-shifting concept of the 'double X economy' to describe both the shocking gender inequalities that are built into our global economy, and the collective power of women that could be harnessed to combat those inequalities.",
+      "Drawing on a wealth of sources including radical original research and vivid case studies, Scott reveals how economic subordination and exclusion are systemic for women in the developing and the developed worlds; and shows that by pulling women in as equal participants in the economy, we could address many of humankind's most pressing problems.",
+      "Provocative, accessible and potentially game-changing, The Double X Economy is the feminist answer to Jeffrey Sach's The End of Poverty: both a work of expert analysis and an urgent call to action."
+    ]
+  },
+  {
+    "id": "0b3bfca9-9aac-42b2-a568-464f78be3170",
+    "namespaceId": "the-double-x-economy",
+    "name": "Економіка з двома іксами. Грандіозний потенціал жіночої незалежності",
+    "slug": "the-double-x-economy-uk-hardcover",
+    "priceRegular": 6.23,
+    "priceDiscount": 5.61,
+    "images": [
       "",
       "",
       "",
       ""
     ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Linda Scott",
+    "coverType": "hardcover",
+    "numberOfPages": 384,
+    "publicationYear": 2021,
+    "publication": "Yakaboo Publishing",
+    "format": "140х215 mm",
+    "illustrations": false,
+    "category": [
+      "Women in Business",
+      "English",
+      "Gender Studies. Feminism"
+    ],
     "description": [
-      "",
-      ""
+      "Яскраво виражена економічна нерівність притаманна жіночому населенню будь-якої країни, і в кожній працює той самий механізм, що утримує цю нерівність в силі. Повсюди перешкоди економічній залученості жінок простягаються далеко за межі роботи і заробітної плати та охоплюють питання власності, капіталу, кредитів і ринків. Ці економічні перепони у поєднанні з культурними обмеженнями, які накладаються здебільшого на жіноче населення, формують унікальну тіньову економіку. Лінда Скотт на основі достовірних даних та практичного досвіду стверджує, що подолання цих перешкод на шляху до успіху жінок — перемога для всіх, незалежно від гендеру.",
+      "Авторка відкриває нам очі на безліч економічних несправедливостей, що обмежують жінок у всьому світі: батьки продають своїх доньок проти їхньої волі; чоловіки спалюють наречених, чиє придане витрачене; чоловіки привласнюють заробітки жінок і землю вдів; банки дискримінують жінок, що звертаються за кредитами; корпорації платять жінкам менше, аніж чоловікам — і ще чимало іншого. «Економіка з двома іксами» — це оцінка історичного вилучення жінок з економічного життя та наслідки цього, а також заклик раз і назавжди поставити жінок і чоловіків у рівні економічні умови."
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "4cc9f530-6f82-47a1-8cf2-85168effe6ac",
+    "namespaceId": "the-leader-who-had-no-title",
+    "name": "The Leader Who Had No Title: A Modern Fable on Real Success in Business and in",
+    "slug": "the-leader-who-had-no-title-en-ebook",
+    "priceRegular": 14.99,
     "priceDiscount": null,
     "images": [
       "",
@@ -922,32 +952,29 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "en",
+    "author": "Robin Sharma",
+    "coverType": "ebook",
+    "numberOfPages": 226,
+    "publicationYear": 2010,
+    "publication": "Free Press",
+    "format": "1.7 MB",
+    "illustrations": false,
     "category": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Leadership",
+      "All about business and money"
     ],
     "description": [
-      "",
-      ""
+      "For more than fifteen years, Robin Sharma has been quietly sharing with Fortune 500 companies and many of the super-rich a success formula that has made him one of the most sought-after leadership advisers in the world. Now, for the first time, Sharma makes his proprietary process available to you, so that you can get to your absolute best while helping your organization break through to a dramatically new level of winning in these wildly uncertain times.",
+      "Regardless of what you do within your organization and the current circumstances of your life, the single most important fact is that you have the power to show leadership. Wherever you are in your career or life, you should always play to your peak abilities. This book shows you how to claim that staggering power, as well as transform your life—and the world around you—in the process."
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "c6621a3e-8dca-4158-ae68-816f650e2a0e",
+    "namespaceId": "the-leader-who-had-no-title",
+    "name": "Лідер без титулу",
+    "slug": "the-leader-who-had-no-title-uk-ebook",
+    "priceRegular": 4.79,
     "priceDiscount": null,
     "images": [
       "",
@@ -956,32 +983,29 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "uk",
+    "author": "Robin Sharma",
+    "coverType": "ebook",
+    "numberOfPages": 232,
+    "publicationYear": 2020,
+    "publication": "КМ-БУКС",
+    "format": "1.7 MB",
+    "illustrations": false,
     "category": [
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Leadership",
+      "All about business and money"
     ],
     "description": [
-      "",
-      ""
+      "«Для того щоб бути лідером, титул не потрібен», — стверджує Робін Шарма, знаний і шанований у бізнесових колах консультант з питань особистісного розвитку. Він руйнує міфи про застарілі методи лідерства, а натомість вчить, як найповніше реалізувати свій лідерський потенціал та амбіційні плани і як, скориставшись поданими у книзі порадами, методиками і техніками, змінити на краще своє життя та навколишній світ.",
+      "Більшість людей вважає, що їхня доля — прожити посереднє життя і що вони ніколи нічого не досягнуть. Але доля — це всього лише результат вибору. І ця книга допоможе своєму читачу зробити цей вибір, та змінити своє життя на краще, варто лише виконувати рекомендації Робіна Шарми! Ризикніть і ви станете зовсім іншою людиною!"
     ]
   },
   {
-    "id": "",
-    "namespaceId": "",
-    "name": "",
-    "slug": "",
-    "priceRegular": ,
+    "id": "6156df5d-861b-4467-9a42-a55c82094bd3",
+    "namespaceId": "scrum-the-art-of-doing-twice-the-work-in-half-the-time",
+    "name": "Scrum. The Art of Doing Twice the Work in Half the Time",
+    "slug": "scrum-the-art-of-doing-twice-the-work-in-half-the-time-en-paperback",
+    "priceRegular": 19.37,
     "priceDiscount": null,
     "images": [
       "",
@@ -990,28 +1014,328 @@
       ""
     ],
     "langAvailable": ["en", "uk"],
-    "lang": "",
-    "author": "",
-    "coverType": "",
-    "numberOfPages": ,
-    "publicationYear": ,
-    "publication": "",
-    "format": "",
-    "illustrations": ,
+    "lang": "en",
+    "author": "Jeff Sutherland",
+    "coverType": "paperback",
+    "numberOfPages": 256,
+    "publicationYear": 2022,
+    "publication": "Random House",
+    "format": "130х200 mm",
+    "illustrations": true,
     "category": [
-      "",
+      "General Management",
+      "Project Management",
+      "Business Ownership and Organization"
+    ],
+    "description": [
+      "The definitive account of the Scrum methodology from its co-creator and the CEO of Scrum, Inc., Jeff Sutherland.",
+      "Scrum is the revolutionary approach to project management and team building that has helped to transform everything from software companies to the US military to healthcare in major American hospitals. In this major new book its originator, Jeff Sutherland, explains precisely and step by step how it operates – and how it can be made to work for anyone, anywhere. Take the FBI attempt to digitize its records, for example. As with so many software projects the first attempt failed, having taken four years and cost over $400 million. Then the FBI turned to Scrum, and just over a year later unveiled a functioning system that cost less than a tenth of the first project and employed a tenth of the staff. And it's not just grand projects that Scrum can help with.",
+      "Every organisation, whatever its size, constantly has to come to grips with delivering a product or service on time and on budget. Scrum shows you how. It explains how to define precisely what it is that you are seeking to achieve, how to set up the team to achieve it, and how to monitor progress until the project is successfully completed. Filled with practical examples drawn from all types and organisation it will make you rethink the fundamentals of successful management – and show you how to get things done however everyday or ambitious, however small or large your organisation."
+    ]
+  },
+  {
+    "id": "19cfc7b7-dde0-4c77-9ca5-2d5417e49e34",
+    "namespaceId": "scrum-the-art-of-doing-twice-the-work-in-half-the-time",
+    "name": "Scrum. Навчись робити вдвічі більше за менший час",
+    "slug": "scrum-the-art-of-doing-twice-the-work-in-half-the-time-uk-hardcover",
+    "priceRegular": 8.39,
+    "priceDiscount": null,
+    "images": [
       "",
       "",
       "",
       ""
     ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Jeff Sutherland",
+    "coverType": "hardcover",
+    "numberOfPages": 280,
+    "publicationYear": 2022,
+    "publication": "Книжковий клуб 'Клуб Сімейного Дозвілля'",
+    "format": "150х220 mm",
+    "illustrations": true,
+    "category": [
+      "General Management",
+      "Project Management",
+      "Business Ownership and Organization"
+    ],
     "description": [
-      "",
-      ""
+      "Книга містить багато довідкової інформації та допоможе краще зрозуміти філософію Scrum, у якій переплітаються знання з бойових мистецтв, прийняття судових рішень, передового повітряного бою, робототехніки та багатьох інших дисциплін. Автор аналізує кожен аспект цієї методології, пропонуючи не лише просте пояснення, а й обґрунтування кожного процесу. Він висвітлює всі помилки та хибні уявлення, які люди мають під час роботи, наприклад, неправильний розмір команди, спроби виконувати кілька завдань одночасно, планування або очікування без зосередження на реальності. Після цього Джефф дає стратегію ступеневого процесу розробки проєкту, що згуртовує команду навколо scrum-майстра та дозволяє позбутися помилок і підвищити ефективність праці у кілька разів.",
+      "Автор переконаний — у сучасному світі старі підходи для організації бізнес-процесів неактуальні. У цій книзі він знайомить читача з новим методом, який вже довів свою ефективність. Посібник можна поділити на три частини. Спершу Джефф пояснює ази Scrum, побудову та основні принципи цього способу роботи. Потім він обговорює застосування методу до різних типів проєктів. І наостанок читач дізнається як масштабувати Scrum і використовувати його для постійного вдосконалення.",
+      "«Scrum. Навчись робити вдвічі більше за менший час» Джеффа Сазерленда, співзасновника методики, є однією з найпопулярніших книг про продуктивність. Автор спирається на когнітивну психологію, теорію складності та економічне мислення. Він також розповідає, як на створення цього способу організації роботи вплинули виживання у В’єтнамі, де він був воєнним пілотом, взаємодія із власною ротою та дослідження ракових клітин. Останнє допомогло йому краще зрозуміти людей та команди як складні системи.",
+      "Сазерленд використовує реальні історії — від місій пілотів винищувачів і програмних збоїв державних установ до команд Google і шкіл в Індії — щоб показати, як зі Scrum змінюється ефективність. Стратегія Джеффа застосовується в розробці програм для баз даних ФБР, для підготовки космічних польотів, її використовують кадети у Вест-Пойнті та бригади ремонтників, відкриваючи нову епоху методів управління та контролю. Цей посібник буде корисний тим, хто прагне кардинальних змін у роботі з проєктами та хоче покращити продуктивність — свою, команди чи навіть компанії."
     ]
   },
-
-
-
-
+  {
+    "id": "eab80dad-cced-42b6-819d-ed15eac664b7",
+    "namespaceId": "the-intelligent-investor",
+    "name": "The Intelligent Investor Third Edition: The Definitive Book on Value Investing",
+    "slug": "the-intelligent-investor-en-ebook",
+    "priceRegular": 18.99,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Benjamin Graham ",
+    "coverType": "ebook",
+    "numberOfPages": 244,
+    "publicationYear": 2024,
+    "publication": "Harper Business",
+    "format": "34.4 MB",
+    "illustrations": false,
+    "category": [
+      "Stock Market",
+      "Our Format: New Releases and Hits",
+      "All About Business and Money"
+    ],
+    "description": [
+      "The classic work on investing, filled with sound and safe principles that are as reliable as ever, now revised with an introduction and appendix by financial legend Warren Buffett—one of the author’s most famous students—and newly updated commentaries on each chapter from distinguished Wall Street Journal writer Jason Zweig.",
+      "Since its original publication in 1949, Benjamin Graham’s revered classic, The Intelligent Investor, has taught and inspired millions of people worldwide and remains the most respected guide to investing. Graham’s timeless philosophy of “value investing” helps protect investors against common mistakes and teaches them to develop sensible strategies that will serve them throughout their lifetime.",
+      "Market developments over the past seven decades have borne out the wisdom of Graham’s basic policies, and in today’s volatile market, The Intelligent Investor remains essential. It is the most important book you will ever read on making the right decisions to protect your investments and make them grow.",
+      "Featuring updated commentaries which accompany every chapter of Graham’s book—leaving his original text untouched—from noted financial journalist Jason Zweig, this newly revised edition offers readers an even clearer understanding of Graham’s wisdom and how it should be applied by investors today."
+    ]
+  },
+  {
+    "id": "cd2fe3c7-dd08-4539-9bdc-8449b21baac5",
+    "namespaceId": "the-intelligent-investor",
+    "name": "Електронна книга Розумний інвестор. Стратегія вартісного інвестування",
+    "slug": "the-intelligent-investor-uk-ebook",
+    "priceRegular": 8.39,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Benjamin Graham ",
+    "coverType": "ebook",
+    "numberOfPages": 544,
+    "publicationYear": 2024,
+    "publication": "Наш Формат",
+    "format": "34.4 MB",
+    "illustrations": false,
+    "category": [
+      "Stock Market",
+      "Our Format: New Releases and Hits",
+      "All About Business and Money"
+    ],
+    "description": [
+      "Фондовий ринок схожий на маятник: постійно розгойдується від необґрунтованого оптимізму до безпідставного песимізму. Розумний інвестор натомість має бути реалістом, який купує в песимістів і продає оптимістам, стверджує Бенджамін Ґрем. Його книжка стала настільною для всіх, хто хоче зрозуміти практичні аспекти цієї діяльності та досягти в ній успіху.",
+      "Книжка для всіх, хто цікавиться або займається інвестиційною діяльністю, бізнес-аналітиків, фінансистів та біржевих брокерів.",
+      "У своїй праці Ґрем зосереджується не так на техніках, як на принципах інвестування й поведінки інвесторів, емоційному складнику й важливих аналітичних механізмах. Це оновлене видання доповнено сучасними прикладами від Джейсона Цвейґа, які ілюструють актуальність принципів інвестування.",
+      "Бенджамін Ґрем (1894-1976) - американський економіст та інвестор. Вважається батьком 'вартісного інвестування'. Викладав у Колумбійській бізнес-школі. Інвестори Воррен Баффет, Ірвінг Кан, Волтер Шлосс назвали себе послідовниками Ґрема."
+    ]
+  },
+  {
+    "id": "5a93f9d0-dc9a-4e58-98cc-55719fe0c3e0",
+    "namespaceId": "chip-war",
+    "name": "Chip War. The Fight for the World's Most Critical Technology",
+    "slug": "chip-war-en-paperback",
+    "priceRegular": 16.47,
+    "priceDiscount": 14.81,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Chriss Miller",
+    "coverType": "paperback",
+    "numberOfPages": 464,
+    "publicationYear": 2023,
+    "publication": "Simon & Schuster Ltd",
+    "format": "130x198x28 mm",
+    "illustrations": false,
+    "category": [
+      "Foreign Economic Activity and International Relations",
+      "World History",
+      "International Business",
+      "General and World History"
+    ],
+    "description": [
+      "Power in the modern world - military, economic, geopolitical - is built on a foundation of computer chips. America has maintained its lead as a superpower because it has dominated advances in computer chips and all the technology that chips have enabled. (Virtually everything runs on chips: cars, phones, the stock market, even the electric grid.) Now that edge is in danger of slipping, undermined by the naïve assumption that globalising the chip industry and letting players in Taiwan, Korea and Europe take over manufacturing serves America's interests. Currently, as Chip War reveals, China, which spends more on chips than any other product, is pouring billions into a chip-building Manhattan Project to catch up to the US. ",
+      "In Chip War economic historian Chris Miller recounts the fascinating sequence of events that led to the United States perfecting chip design, and how faster chips helped defeat the Soviet Union (by rendering the Russians’ arsenal of precision-guided weapons obsolete). The battle to control this industry will shape our future. China spends more money importing chips than buying oil, and they are China's greatest external vulnerability as they are fundamentally reliant on foreign chips. But with 37 per cent of the global supply of chips being made in Taiwan, within easy range of Chinese missiles, the West's fear is that a solution may be close at hand."
+    ]
+  },
+  {
+    "id": "34cc47bd-f445-4518-b800-3b75ab342e95",
+    "namespaceId": "chip-war",
+    "name": "Чипова війна. Боротьба за найважливішу технологію у світі",
+    "slug": "chip-war-uk-hardcover",
+    "priceRegular": 13.42,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Chriss Miller",
+    "coverType": "hardcover",
+    "numberOfPages": 432,
+    "publicationYear": 2024,
+    "publication": "Наш Формат",
+    "format": "130x198x28 mm",
+    "illustrations": false,
+    "category": [
+      "Foreign Economic Activity and International Relations",
+      "World History",
+      "International Business",
+      "General and World History"
+    ],
+    "description": [
+      "Мікрочипи — це як нова нафта. Саме від цього дефіцитного ресурсу залежить весь світ. І це не перебільшення: на мікросхемах працює майже все — від мікрохвильовок і смартфонів до ракет і фондового ринку. Та як розвивається індустрія мікрочипів і як вона змінюватиме наше майбутнє?",
+      "Кріс Міллер створив не суху технічну оповідь, а захопливу історію про економічні та геополітичні стратегії. Ви поринете у світ глобальних інтриг і технологічних битв, де корпорації та держави ведуть жорстку війну за панування у виробництві мікрочипів. Довідаєтеся, як США здобули основну роль на ринку, як шпигунська мережа ставала секретною зброєю СРСР і чому Тайваню варто остерігатися.",
+      "Це книжка про те, як маленькі кремнієві пластини стали ключем до глобального впливу, а також про ризики й можливості війни технологій."
+    ]
+  },
+  {
+    "id": "2356dbfd-745b-497d-aa06-a142e8665f03",
+    "namespaceId": "misbehaving-the-making-of-behavioral-economics",
+    "name": "Misbehaving: The Making of Behavioral Economics",
+    "slug": "misbehaving-the-making-of-behavioral-economics-en-paperback",
+    "priceRegular": 3.02,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Richard H. Thaler",
+    "coverType": "paperback",
+    "numberOfPages": 432,
+    "publicationYear": 2016,
+    "publication": "W. W. Norton & Company",
+    "format": "140x210 mm",
+    "illustrations": false,
+    "category": [
+      "Financial analysis, assessment, accounting and planning. Budget",
+      "Motivation",
+      "Personal budget",
+      "Skills. Abilities",
+      "Our Format: new products and hits"
+    ],
+    "description": [
+      "Nobel laureate Richard H. Thaler has spent his career studying the radical notion that the central agents in the economy are humans―predictable, error-prone individuals. Misbehaving is his arresting, frequently hilarious account of the struggle to bring an academic discipline back down to earth―and change the way we think about economics, ourselves, and our world.",
+      "Traditional economics assumes rational actors. Early in his research, Thaler realized these Spock-like automatons were nothing like real people. Whether buying a clock radio, selling basketball tickets, or applying for a mortgage, we all succumb to biases and make decisions that deviate from the standards of rationality assumed by economists. In other words, we misbehave. More importantly, our misbehavior has serious consequences. Dismissed at first by economists as an amusing sideshow, the study of human miscalculations and their effects on markets now drives efforts to make better decisions in our lives, our businesses, and our governments",
+      "Coupling recent discoveries in human psychology with a practical understanding of incentives and market behavior, Thaler enlightens readers about how to make smarter decisions in an increasingly mystifying world. He reveals how behavioral economic analysis opens up new ways to look at everything from household finance to assigning faculty offices in a new building, to TV game shows, the NFL draft, and businesses like Uber.",
+      "Laced with antic stories of Thaler’s spirited battles with the bastions of traditional economic thinking, Misbehaving is a singular look into profound human foibles. When economics meets psychology, the implications for individuals, managers, and policy makers are both profound and entertaining."
+    ]
+  },
+  {
+    "id": "ac1b06d2-1e5d-4531-9382-40f5b1d52856",
+    "namespaceId": "misbehaving-the-making-of-behavioral-economics",
+    "name": "Поведінкова економіка. Чому люди діють ірраціонально і як отримати з цього вигоду",
+    "slug": "misbehaving-the-making-of-behavioral-economics-uk-hardcover",
+    "priceRegular": 10.79,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Richard H. Thaler",
+    "coverType": "hardcover",
+    "numberOfPages": 464,
+    "publicationYear": 2023,
+    "publication": "Наш Формат",
+    "format": "140x210 mm",
+    "illustrations": false,
+    "category": [
+      "Financial analysis, assessment, accounting and planning. Budget",
+      "Motivation",
+      "Personal budget",
+      "Skills. Abilities",
+      "Our Format: new products and hits"
+    ],
+    "description": [
+      "За класичною економічною теорією, люди діють раціонально. Та й самі ми схильні думати, що ухвалюємо рішення з максимальною вигодою для себе. Однак нашим вибором часто керують емоції, і Річард Талер на основі численних досліджень та прикладів із життя переконає вас у цьому. Яких помилок ми як споживачі припускаємося щодня? За яких обставин ми більше схильні до ризику та як ефективно заощаджувати кошти? Про розумні капіталовкладення, гіпотезу ефективного ринку, фреймінг, про наші упередження та самоконтроль він розповідає не лише зрозуміло та цікаво, а й навіть із гумором."
+    ]
+  },
+  {
+    "id": "9b2b9ca6-2277-4f95-9975-d59df08a857c",
+    "namespaceId": "the-fifth-discipline",
+    "name": "The Fifth Discipline: The Art & Practice of The Learning Organization",
+    "slug": "the-fifth-discipline-en-hardcover",
+    "priceRegular": 50,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Peter M. Senge",
+    "coverType": "hardcover",
+    "numberOfPages": 464,
+    "publicationYear": 2023,
+    "publication": "Crown Currency",
+    "format": "150x220 mm",
+    "illustrations": false,
+    "category": [
+      "Motivation. Self-improvement",
+      "Business planning",
+      "Leadership",
+      "Managerial management. Decision management"
+    ],
+    "description": [
+      "This revised edition of the bestselling classic is based on fifteen years of experience in putting Peter Senge’s ideas into practice. As Senge makes clear, in the long run the only sustainable competitive advantage is your organization’s ability to learn faster than the competition. The leadership stories demonstrate the many ways that the core ideas of the Fifth Discipline, many of which seemed radical when first published, have become deeply integrated into people’s ways of seeing the world and their managerial practices.",
+      "Senge describes how companies can rid themselves of the learning blocks that threaten their productivity and success by adopting the strategies of learning organizations, in which new and expansive patterns of thinking are nurtured, collective aspiration is set free, and people are continually learning how to create the results they truly desire."
+    ]
+  },
+  {
+    "id": "513d30d0-d268-4136-a37e-d5298d64ef06",
+    "namespaceId": "the-fifth-discipline",
+    "name": "П'ята дисципліна. Майстерність та практика зростання організації",
+    "slug": "the-fifth-discipline-uk-hardcover",
+    "priceRegular": 15.56,
+    "priceDiscount": null,
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Peter M. Senge",
+    "coverType": "hardcover",
+    "numberOfPages": 512,
+    "publicationYear": 2025,
+    "publication": "Лабораторія",
+    "format": "145x215 mm",
+    "illustrations": false,
+    "category": [
+      "Motivation. Self-improvement",
+      "Business planning",
+      "Leadership",
+      "Managerial management. Decision management"
+    ],
+    "description": [
+      "Доповнене видання класичного бестселера, що ґрунтується на п'ятнадцятирічному досвіді реалізації концепцій Пітера Сенджі.",
+      "Панівна система управління приречена: часи, коли нездатність скористатися колективним розумом, властивим ефективній спільній роботі, компенсують тяжкою працею, позаду. Це не екологічно і точно не ефективно. А єдиною стійкою перевагою організацій у сучасному світі є здатність навчатися швидше за конкурентів.",
+      "Пітер Сенджі доводить, що лідери компаній і організацій, позбуваючись перешкод і стереотипів стосовно навчання і приймаючи нові стратегії, які вивільняють істинні колективні прагнення, допомагають своїм же працівникам досягати високих результатів. Опанування уроків, описаних у «П’ятій дисципліні», допоможе навчитися бачити навколишній світ по-новому, запалити іскру творчості й звільнитися від обмежень та стереотипів усім, хто цього по-справжньому прагне: і компаніям, які працюють за принципами сталого розвитку, і організаціям, що вирішують соціальні проблеми — вуличного бандитизму, зміни систем шкільної освіти, сприяння економічному розвитку чи боротьби з бідністю. А керівники здобудуть знання про п’ять базових складників успіху: постійне самовдосконалення кожного працівника, інтелектуальну модель, загальне бачення, навчання команд і — найголовнішу, п'яту дисципліну, що дасть змогу поєднувати мозаїку миттєвих подій у чітку картину — мислення системами."
+    ]
+  }
 ]
